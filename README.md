@@ -1,7 +1,7 @@
 ## Hi, I'm Anjana.✨
 
-🧠 Graduated with a Bachelor of Computer Aplication from MD University.<br/>
-⚒ I created Portfolio to stay consistent.<br/>
+🧠 Graduated with a Bachelor of Computer Application from DPGITM.<br/>
+⚒ I created a Portfolio to stay consistent.<br/>
 🖋 I enjoy coding games for entertainment.
 
 
